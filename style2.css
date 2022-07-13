@@ -60,3 +60,32 @@ img {
   margin: 0 auto;
 }
 
+.d-flex{
+  display: flex;
+}
+.justify-content-center{
+  justify-content: center;
+}
+.align-items-center{
+  align-items: center;
+}
+.lh-title{
+  font-size: 20px;
+  line-height: 1.2;
+}
+.lh-p{
+  font-size: 16px;
+  line-height: 1.5;
+}
+.text-center{
+  text-align: center;
+}
+.py-48{
+  padding: 48px 0;
+}
+.mb-24 {
+  margin-bottom: 24px;
+}
+.ml-20{
+  margin-left: 20px;
+}
